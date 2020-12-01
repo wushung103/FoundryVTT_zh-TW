@@ -17,6 +17,6 @@
     }
   ],
   "url": "https://github.com/wushung103/FoundryVTT_zh-TW",
-  "manifest": "https://raw.githubusercontent.com/wushung103/FoundryVTT_zh-TW/main/zh-TW.json",
+  "manifest": "https://raw.githubusercontent.com/wushung103/FoundryVTT_zh-TW/main/module.json",
   "download": "https://github.com/wushung103/FoundryVTT_zh-TW/archive/main.zip"
 }
