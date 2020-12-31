@@ -2,7 +2,7 @@
   "name": "FoundryVTT_zh-TW",
   "title": "Translation: 台灣繁中 [CORE]",
   "description": "FVTT 核心系统台灣語系。",
-  "version": "0.1.4",
+  "version": "0.1.0",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.6",
   "author": "Una",
